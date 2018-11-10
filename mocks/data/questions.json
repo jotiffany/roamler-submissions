@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "index": 2,
+      "text": "Take a picture of the bananas"
+    },
+    {
+      "id": 2,
+      "index": 5,
+      "text": "Do the bananas look good?"
+    },
+    {
+      "id": 3,
+      "index": 6,
+      "text": "Explain your previous answer"
+    },
+    {
+      "id": 4,
+      "index": 8,
+      "text": "Do you have additional info about this job?"
+    },
+    {
+      "id": 5,
+      "index": 4,
+      "text": "Is the banana shelf stocked?"
+    }
+  ]
+}

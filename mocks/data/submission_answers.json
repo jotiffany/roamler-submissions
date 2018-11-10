@@ -1,0 +1,5494 @@
+{
+  "submission_answers": [
+  {
+    "id": 1,
+    "submissionId": 200,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 2,
+    "submissionId": 199,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 3,
+    "submissionId": 198,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 4,
+    "submissionId": 197,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 5,
+    "submissionId": 196,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 6,
+    "submissionId": 195,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 7,
+    "submissionId": 194,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 8,
+    "submissionId": 193,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 9,
+    "submissionId": 192,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 10,
+    "submissionId": 191,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 11,
+    "submissionId": 190,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 12,
+    "submissionId": 189,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 13,
+    "submissionId": 188,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 14,
+    "submissionId": 187,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 15,
+    "submissionId": 186,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 16,
+    "submissionId": 185,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 17,
+    "submissionId": 184,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 18,
+    "submissionId": 183,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 19,
+    "submissionId": 182,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 20,
+    "submissionId": 181,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 21,
+    "submissionId": 180,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 22,
+    "submissionId": 179,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 23,
+    "submissionId": 178,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 24,
+    "submissionId": 177,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 25,
+    "submissionId": 176,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 26,
+    "submissionId": 175,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 27,
+    "submissionId": 174,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 28,
+    "submissionId": 173,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 29,
+    "submissionId": 172,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 30,
+    "submissionId": 171,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 31,
+    "submissionId": 170,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 32,
+    "submissionId": 169,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 33,
+    "submissionId": 168,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 34,
+    "submissionId": 167,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 35,
+    "submissionId": 165,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 36,
+    "submissionId": 164,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 37,
+    "submissionId": 166,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 38,
+    "submissionId": 163,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 39,
+    "submissionId": 162,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 40,
+    "submissionId": 161,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 41,
+    "submissionId": 160,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 42,
+    "submissionId": 159,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 43,
+    "submissionId": 158,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 44,
+    "submissionId": 157,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 45,
+    "submissionId": 156,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 46,
+    "submissionId": 155,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 47,
+    "submissionId": 154,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 48,
+    "submissionId": 153,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 49,
+    "submissionId": 152,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 50,
+    "submissionId": 151,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 51,
+    "submissionId": 150,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 52,
+    "submissionId": 149,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 53,
+    "submissionId": 148,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 54,
+    "submissionId": 147,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 55,
+    "submissionId": 146,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 56,
+    "submissionId": 145,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 57,
+    "submissionId": 144,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 58,
+    "submissionId": 143,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 59,
+    "submissionId": 142,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 60,
+    "submissionId": 141,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 61,
+    "submissionId": 139,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 62,
+    "submissionId": 140,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 63,
+    "submissionId": 138,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 64,
+    "submissionId": 137,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 65,
+    "submissionId": 136,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 66,
+    "submissionId": 135,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 67,
+    "submissionId": 134,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 68,
+    "submissionId": 133,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 69,
+    "submissionId": 132,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 70,
+    "submissionId": 131,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 71,
+    "submissionId": 130,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 72,
+    "submissionId": 129,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 73,
+    "submissionId": 128,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 74,
+    "submissionId": 127,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 75,
+    "submissionId": 126,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 76,
+    "submissionId": 125,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 77,
+    "submissionId": 124,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 78,
+    "submissionId": 123,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 79,
+    "submissionId": 122,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 80,
+    "submissionId": 121,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 81,
+    "submissionId": 120,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 82,
+    "submissionId": 119,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 83,
+    "submissionId": 118,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 84,
+    "submissionId": 117,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 85,
+    "submissionId": 116,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 86,
+    "submissionId": 115,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 87,
+    "submissionId": 114,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 88,
+    "submissionId": 113,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 89,
+    "submissionId": 112,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 90,
+    "submissionId": 111,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 91,
+    "submissionId": 110,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 92,
+    "submissionId": 109,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 93,
+    "submissionId": 108,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 94,
+    "submissionId": 107,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 95,
+    "submissionId": 106,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 96,
+    "submissionId": 105,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 97,
+    "submissionId": 104,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 98,
+    "submissionId": 103,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 99,
+    "submissionId": 102,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 100,
+    "submissionId": 101,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 101,
+    "submissionId": 100,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 102,
+    "submissionId": 99,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 103,
+    "submissionId": 98,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 104,
+    "submissionId": 97,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 105,
+    "submissionId": 96,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 106,
+    "submissionId": 95,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 107,
+    "submissionId": 94,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 108,
+    "submissionId": 93,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 109,
+    "submissionId": 92,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 110,
+    "submissionId": 91,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 111,
+    "submissionId": 90,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 112,
+    "submissionId": 89,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 113,
+    "submissionId": 88,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 114,
+    "submissionId": 87,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 115,
+    "submissionId": 86,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 116,
+    "submissionId": 85,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 117,
+    "submissionId": 84,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 118,
+    "submissionId": 83,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 119,
+    "submissionId": 82,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 120,
+    "submissionId": 81,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 121,
+    "submissionId": 80,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 122,
+    "submissionId": 79,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 123,
+    "submissionId": 78,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 124,
+    "submissionId": 77,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 125,
+    "submissionId": 76,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 126,
+    "submissionId": 75,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 127,
+    "submissionId": 74,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 128,
+    "submissionId": 73,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 129,
+    "submissionId": 72,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 130,
+    "submissionId": 71,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 131,
+    "submissionId": 70,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 132,
+    "submissionId": 69,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 133,
+    "submissionId": 68,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 134,
+    "submissionId": 67,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 135,
+    "submissionId": 66,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 136,
+    "submissionId": 65,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 137,
+    "submissionId": 64,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 138,
+    "submissionId": 63,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 139,
+    "submissionId": 62,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 140,
+    "submissionId": 61,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 141,
+    "submissionId": 60,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 142,
+    "submissionId": 59,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 143,
+    "submissionId": 58,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 144,
+    "submissionId": 57,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 145,
+    "submissionId": 56,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 146,
+    "submissionId": 55,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 147,
+    "submissionId": 54,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 148,
+    "submissionId": 53,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 149,
+    "submissionId": 52,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 150,
+    "submissionId": 51,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 151,
+    "submissionId": 50,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 152,
+    "submissionId": 49,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 153,
+    "submissionId": 48,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 154,
+    "submissionId": 47,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 155,
+    "submissionId": 46,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 156,
+    "submissionId": 45,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 157,
+    "submissionId": 44,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 158,
+    "submissionId": 43,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 159,
+    "submissionId": 42,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 160,
+    "submissionId": 41,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 161,
+    "submissionId": 40,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 162,
+    "submissionId": 39,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 163,
+    "submissionId": 38,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 164,
+    "submissionId": 37,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 165,
+    "submissionId": 36,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 166,
+    "submissionId": 35,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 167,
+    "submissionId": 34,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 168,
+    "submissionId": 33,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 169,
+    "submissionId": 32,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 170,
+    "submissionId": 31,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 171,
+    "submissionId": 30,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 172,
+    "submissionId": 29,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 173,
+    "submissionId": 28,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 174,
+    "submissionId": 27,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 175,
+    "submissionId": 26,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 176,
+    "submissionId": 25,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 177,
+    "submissionId": 24,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 178,
+    "submissionId": 23,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 179,
+    "submissionId": 22,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 180,
+    "submissionId": 21,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 181,
+    "submissionId": 20,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 182,
+    "submissionId": 19,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 183,
+    "submissionId": 18,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 184,
+    "submissionId": 17,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 185,
+    "submissionId": 16,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 186,
+    "submissionId": 15,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 187,
+    "submissionId": 14,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 188,
+    "submissionId": 13,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 189,
+    "submissionId": 12,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 190,
+    "submissionId": 11,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 191,
+    "submissionId": 10,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 192,
+    "submissionId": 9,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 193,
+    "submissionId": 8,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 194,
+    "submissionId": 7,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 195,
+    "submissionId": 6,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 196,
+    "submissionId": 5,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 197,
+    "submissionId": 4,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 198,
+    "submissionId": 3,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 199,
+    "submissionId": 2,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 200,
+    "submissionId": 1,
+    "questionId": 1,
+    "text": null
+  },
+  {
+    "id": 201,
+    "submissionId": 200,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 202,
+    "submissionId": 200,
+    "questionId": 3,
+    "text": "De bananen vertonen al kleine bruine plekken. Er liggen oudere bananen in het schap."
+  },
+  {
+    "id": 203,
+    "submissionId": 199,
+    "questionId": 3,
+    "text": "Voornamelijk gele en enkele groene bananen, er zitten geen rotte bananen tussen. Ook zitten bijna alle bananen nog aan trosjes."
+  },
+  {
+    "id": 204,
+    "submissionId": 199,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 205,
+    "submissionId": 198,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 206,
+    "submissionId": 198,
+    "questionId": 3,
+    "text": "Op een paar na zijn ze aardig geel en zijn ze ook wel groot"
+  },
+  {
+    "id": 207,
+    "submissionId": 197,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 208,
+    "submissionId": 197,
+    "questionId": 3,
+    "text": "Ik vind dat ze er mooi uit zien omdat ze mooi geel zijn en niet al te bruin."
+  },
+  {
+    "id": 209,
+    "submissionId": 196,
+    "questionId": 3,
+    "text": "Meerendeels nog niet rijp en zeer dun. Ik zou ze niet aanschaffen."
+  },
+  {
+    "id": 210,
+    "submissionId": 196,
+    "questionId": 2,
+    "text": "Nee"
+  },
+  {
+    "id": 211,
+    "submissionId": 195,
+    "questionId": 3,
+    "text": "De bananen zijn aan de bovenkant nog groen en er zitten geen rotte of bruine bananen tussen."
+  },
+  {
+    "id": 212,
+    "submissionId": 195,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 213,
+    "submissionId": 194,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 214,
+    "submissionId": 194,
+    "questionId": 3,
+    "text": "Sommige bananen zijn nog erg groen, waar andere bananen al wat bruine plekken hebben."
+  },
+  {
+    "id": 215,
+    "submissionId": 193,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 216,
+    "submissionId": 193,
+    "questionId": 3,
+    "text": "Liggen veel bananen tussen die al bruine plekken vertonen en binnen paar dagen geconsulteerd moeten worden. "
+  },
+  {
+    "id": 217,
+    "submissionId": 192,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 218,
+    "submissionId": 192,
+    "questionId": 3,
+    "text": "Ze zijn allemaal een beetje geel-groenig dus bijna rijp, geen oude bananen"
+  },
+  {
+    "id": 219,
+    "submissionId": 191,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 220,
+    "submissionId": 191,
+    "questionId": 3,
+    "text": "Meer dan de helft van de bananen waren nog groen."
+  },
+  {
+    "id": 221,
+    "submissionId": 190,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 222,
+    "submissionId": 190,
+    "questionId": 3,
+    "text": " Zeker 50% is te groen voor spoedige consumptie. "
+  },
+  {
+    "id": 223,
+    "submissionId": 189,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 224,
+    "submissionId": 189,
+    "questionId": 3,
+    "text": "sommige zijn een beetje bruin voor de rest is alles mooi geel"
+  },
+  {
+    "id": 225,
+    "submissionId": 188,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 226,
+    "submissionId": 188,
+    "questionId": 3,
+    "text": "De helft ziet er goed uit, andere helft heeft al wat bruine plekken."
+  },
+  {
+    "id": 227,
+    "submissionId": 187,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 228,
+    "submissionId": 187,
+    "questionId": 3,
+    "text": "Er zijn veel bananen met bruine plekken die ik niet zou kopen maar ook mooie liggen ertussen. "
+  },
+  {
+    "id": 229,
+    "submissionId": 186,
+    "questionId": 3,
+    "text": "De bananen zijn mooi van kleur en hebben weinig tot geen bruine plekken"
+  },
+  {
+    "id": 230,
+    "submissionId": 186,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 231,
+    "submissionId": 185,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 232,
+    "submissionId": 185,
+    "questionId": 3,
+    "text": "Geen zwarte vlekken en niet overdreven groen. Zijn mooie bananen en ongeveer even groot"
+  },
+  {
+    "id": 233,
+    "submissionId": 184,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 234,
+    "submissionId": 184,
+    "questionId": 3,
+    "text": "Er zitten geen bruine plekken op en zijn goed rijp "
+  },
+  {
+    "id": 235,
+    "submissionId": 183,
+    "questionId": 3,
+    "text": "De overgang in kleur is top. Mooie gele bananen met een groene stam"
+  },
+  {
+    "id": 236,
+    "submissionId": 183,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 237,
+    "submissionId": 182,
+    "questionId": 3,
+    "text": "De puur en eerlijk bananen hebben veel bruine plekken. De voorverpakte bananen zien er goed uit."
+  },
+  {
+    "id": 238,
+    "submissionId": 182,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 239,
+    "submissionId": 181,
+    "questionId": 3,
+    "text": "Allen zijn nog niet rijp, dus niet direct eetbaar. Niet handig wanneer je direct bananen wilt eten."
+  },
+  {
+    "id": 240,
+    "submissionId": 181,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 241,
+    "submissionId": 180,
+    "questionId": 3,
+    "text": "Ze liggen van rechts naar links heel netjes van nog beetje groen naar rijp ook nog"
+  },
+  {
+    "id": 242,
+    "submissionId": 180,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 243,
+    "submissionId": 179,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 244,
+    "submissionId": 179,
+    "questionId": 3,
+    "text": "Bij deze Plus liggen de bananen niet gewoon in het schap, maar in een soort 'bananentoren'"
+  },
+  {
+    "id": 245,
+    "submissionId": 178,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 246,
+    "submissionId": 178,
+    "questionId": 3,
+    "text": "De bananen hebben een goede kleur. Mooi geel, met bijna geen groen."
+  },
+  {
+    "id": 247,
+    "submissionId": 177,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 248,
+    "submissionId": 177,
+    "questionId": 3,
+    "text": "Geen rotte vlekken.  Gemiddelde hoeveelheden per tros. Geen gebroken bananen. "
+  },
+  {
+    "id": 249,
+    "submissionId": 176,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 250,
+    "submissionId": 176,
+    "questionId": 3,
+    "text": "Het schap (alleen aanwezig op 2de locatie in de winkel) is onderaan heel goed gevuld. Boven iets minder gevuld. Vrijwel alle bananen zien er goed uit (geen groene of bruine)"
+  },
+  {
+    "id": 251,
+    "submissionId": 175,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 252,
+    "submissionId": 175,
+    "questionId": 3,
+    "text": "Mooie gele kleur, rijp genoeg om op te eten. Schap ligt ook goed vol."
+  },
+  {
+    "id": 253,
+    "submissionId": 174,
+    "questionId": 3,
+    "text": "Sommige bananen zijn al een beetje bruin en die in een zak verpakt zijn ziet er redelijk onverzorgd uit. Het lijkt ook slechter omdat het niet helemaal vol ligt."
+  },
+  {
+    "id": 254,
+    "submissionId": 174,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 255,
+    "submissionId": 173,
+    "questionId": 3,
+    "text": "Wel weinig wel slecht georganiseerd kwa merken door elkaar en dus  ook de bedrijven"
+  },
+  {
+    "id": 256,
+    "submissionId": 173,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 257,
+    "submissionId": 172,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 258,
+    "submissionId": 172,
+    "questionId": 3,
+    "text": "Zijn allemaal nog een klein beetje groen"
+  },
+  {
+    "id": 259,
+    "submissionId": 171,
+    "questionId": 3,
+    "text": "Ze zijn geel. Er liggen geen groene bananen. Een paar hebben bruine vlekken"
+  },
+  {
+    "id": 260,
+    "submissionId": 171,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 261,
+    "submissionId": 170,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 262,
+    "submissionId": 170,
+    "questionId": 3,
+    "text": "De bananen zien allemaal mooi geel, zonder bruine plekken en  niet zo onrijp dat ze groen zien"
+  },
+  {
+    "id": 263,
+    "submissionId": 169,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 264,
+    "submissionId": 169,
+    "questionId": 3,
+    "text": "Er zijn bananen al lekker geel, af en toe nog een beetje groen. Mooie trossen. Ook niet te klein."
+  },
+  {
+    "id": 265,
+    "submissionId": 168,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 266,
+    "submissionId": 168,
+    "questionId": 3,
+    "text": "Ze zijn nog niet helemaal rijp, nog een beetje groen dus dat vind ik een goede staat om ze te kopen"
+  },
+  {
+    "id": 267,
+    "submissionId": 167,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 268,
+    "submissionId": 167,
+    "questionId": 3,
+    "text": "De bananen zijn nog niet helemaal goed rijp,  want de bovenkant is nog groen."
+  },
+  {
+    "id": 269,
+    "submissionId": 165,
+    "questionId": 3,
+    "text": "Weinig bruine  plekken"
+  },
+  {
+    "id": 270,
+    "submissionId": 165,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 271,
+    "submissionId": 164,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 272,
+    "submissionId": 164,
+    "questionId": 3,
+    "text": "Sommige zijn een beetje groen, maar verder zien ze er opzich wel goed uit"
+  },
+  {
+    "id": 273,
+    "submissionId": 166,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 274,
+    "submissionId": 166,
+    "questionId": 3,
+    "text": "Opzich zien de bananen er goed uit maar er liggen wel een aantal groene tussen"
+  },
+  {
+    "id": 275,
+    "submissionId": 163,
+    "questionId": 3,
+    "text": "De bananen hebben een groene tot gele kleur en zien er goed uit. Geen overrijpe bananen."
+  },
+  {
+    "id": 276,
+    "submissionId": 163,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 277,
+    "submissionId": 162,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 278,
+    "submissionId": 162,
+    "questionId": 3,
+    "text": "De bananen zijn mooi geel of gedeeltelijk groen. Geen donkere plekken."
+  },
+  {
+    "id": 279,
+    "submissionId": 161,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 280,
+    "submissionId": 161,
+    "questionId": 3,
+    "text": "Van 1 merk zijn de bananen allemaal helemaal geel, voor de rest geldt dat ze nog niet helemaal rijp zijn en dat ze thuis nog bewaard kunnen worden."
+  },
+  {
+    "id": 281,
+    "submissionId": 160,
+    "questionId": 3,
+    "text": "Ze zijn nog niet helemaal rijp, dus ze zijn nog niet oud, en met bruine vlekken"
+  },
+  {
+    "id": 282,
+    "submissionId": 160,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 283,
+    "submissionId": 159,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 284,
+    "submissionId": 159,
+    "questionId": 3,
+    "text": "De meeste zien er goed uit maar er zijn ook trossen die wat bruine vlekken en deukjes hebben."
+  },
+  {
+    "id": 285,
+    "submissionId": 158,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 286,
+    "submissionId": 158,
+    "questionId": 3,
+    "text": "De bananen zien er vers en goed uit ook zie ik geen rotte plekken"
+  },
+  {
+    "id": 287,
+    "submissionId": 157,
+    "questionId": 3,
+    "text": "Het ziet er vers uit, maar het is nog wel een beetje groen doordat het nog niet helemaal rijp is."
+  },
+  {
+    "id": 288,
+    "submissionId": 157,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 289,
+    "submissionId": 156,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 290,
+    "submissionId": 156,
+    "questionId": 3,
+    "text": "Schap is vrij leeg, wel goede bananen, groen tot geel, geen zwarte plekjes."
+  },
+  {
+    "id": 291,
+    "submissionId": 155,
+    "questionId": 3,
+    "text": "Ze zijn niet overrijp (groen) maar ze zijn ook niet alleen maar geel. De stengel is nog groen namelijk."
+  },
+  {
+    "id": 292,
+    "submissionId": 155,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 293,
+    "submissionId": 154,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 294,
+    "submissionId": 154,
+    "questionId": 3,
+    "text": "Op een aantal bananen zijn wat zwarte vlekken te zien, maar de meeste zien er nog wel goed uit."
+  },
+  {
+    "id": 295,
+    "submissionId": 153,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 296,
+    "submissionId": 153,
+    "questionId": 3,
+    "text": "Ze zijn groen gelig van kleur, dat betekent dat ze vers zijn en nog niet zacht zijn. Wellicht moeten ze nog 1 a 2 dagen liggen voor ze helemaal geel zijn."
+  },
+  {
+    "id": 297,
+    "submissionId": 152,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 298,
+    "submissionId": 152,
+    "questionId": 3,
+    "text": "De bananen zijn allemaal nog erg groen.. Op zich goed,dan zijn ze niet meteen overrijp, maar het verkoopt misschien minder goed"
+  },
+  {
+    "id": 299,
+    "submissionId": 151,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 300,
+    "submissionId": 151,
+    "questionId": 3,
+    "text": "Ze zien er goed uit. Ik zie geen verotte/oude/bruine bananen. Ze hebben allemaal een groen/geel achtige kleur en ze zien er lekker uit."
+  },
+  {
+    "id": 301,
+    "submissionId": 150,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 302,
+    "submissionId": 150,
+    "questionId": 3,
+    "text": "De achterste bananen zien er lekker vers uit. De bananen die verder naar voren liggen zijn al best bruin."
+  },
+  {
+    "id": 303,
+    "submissionId": 149,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 304,
+    "submissionId": 149,
+    "questionId": 3,
+    "text": "De bananen zien er bijna rijp uit en er zitten geen overrijpe of rotte bananen tussen."
+  },
+  {
+    "id": 305,
+    "submissionId": 148,
+    "questionId": 3,
+    "text": "Ze waren niet beurs uit en goed rijp. Er is geen lege plek in het schap en het ziet er verzorgd uit!"
+  },
+  {
+    "id": 306,
+    "submissionId": 148,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 307,
+    "submissionId": 147,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 308,
+    "submissionId": 147,
+    "questionId": 3,
+    "text": "Ze zijn mooi geel, en ze zijn net nog bijgevuld. Ze zien er verrukkelijk uit!"
+  },
+  {
+    "id": 309,
+    "submissionId": 146,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 310,
+    "submissionId": 146,
+    "questionId": 3,
+    "text": "Weinig keus. Of wat bruine plekken of te groen. Mn bovenste rij is groen."
+  },
+  {
+    "id": 311,
+    "submissionId": 145,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 312,
+    "submissionId": 145,
+    "questionId": 3,
+    "text": "Er zijn een paar met bruine plekken. Verder zien ze er goed uit.. "
+  },
+  {
+    "id": 313,
+    "submissionId": 144,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 314,
+    "submissionId": 144,
+    "questionId": 3,
+    "text": "Kleur mooi geel, zelfs enkele groenige bananen, mooi rauw. Overal 5 aan een tros. Mooi schap"
+  },
+  {
+    "id": 315,
+    "submissionId": 143,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 316,
+    "submissionId": 143,
+    "questionId": 3,
+    "text": "De bananen zijn mooi geel van kleur. Sommigen zijn eerder nog wat groen en moeten wat rijpen in plaats van al aan de bruine te rijpe kant."
+  },
+  {
+    "id": 317,
+    "submissionId": 142,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 318,
+    "submissionId": 142,
+    "questionId": 3,
+    "text": "er zitten veel groene bananen tussen, maar ook veel bananen met veel donkere plekken op."
+  },
+  {
+    "id": 319,
+    "submissionId": 141,
+    "questionId": 3,
+    "text": "De chiquita bananen lagen op elkaar  gestapeld"
+  },
+  {
+    "id": 320,
+    "submissionId": 141,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 321,
+    "submissionId": 139,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 322,
+    "submissionId": 139,
+    "questionId": 3,
+    "text": "De bananen liggen er netjes bij, het merk goed zichtbaar en zonder rotte bananen"
+  },
+  {
+    "id": 323,
+    "submissionId": 140,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 324,
+    "submissionId": 140,
+    "questionId": 3,
+    "text": "Het schap werd net bijgevuld toen ik de winkel binnen kwam.  Het schap was toen voor de helft gevuld. De bananen zien er vers uit en geen een heeft bruine plekken o.i.d. "
+  },
+  {
+    "id": 325,
+    "submissionId": 138,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 326,
+    "submissionId": 138,
+    "questionId": 3,
+    "text": "Ze zien er goed uit maar sommige zijn niet helemaal rijp en hebben nog een beetje groen aan de steel."
+  },
+  {
+    "id": 327,
+    "submissionId": 137,
+    "questionId": 3,
+    "text": "Het zijn gewoon goede gele bananen van het Fairtrade merk."
+  },
+  {
+    "id": 328,
+    "submissionId": 137,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 329,
+    "submissionId": 136,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 330,
+    "submissionId": 136,
+    "questionId": 3,
+    "text": "Nog net een beetje groen, kunnen ze thuis mooi uitrijpen"
+  },
+  {
+    "id": 331,
+    "submissionId": 135,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 332,
+    "submissionId": 135,
+    "questionId": 3,
+    "text": "De bananen waren rijp en zagen er niet bruin uit"
+  },
+  {
+    "id": 333,
+    "submissionId": 134,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 334,
+    "submissionId": 134,
+    "questionId": 3,
+    "text": "Voldoende keuze, kwaliteit is goed"
+  },
+  {
+    "id": 335,
+    "submissionId": 133,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 336,
+    "submissionId": 133,
+    "questionId": 3,
+    "text": "Mooi geel. Geen vieze bruine bananen oid"
+  },
+  {
+    "id": 337,
+    "submissionId": 132,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 338,
+    "submissionId": 132,
+    "questionId": 3,
+    "text": "Ja ze zijn goed gekleurd en mooi. Ook smaken ze goed"
+  },
+  {
+    "id": 339,
+    "submissionId": 131,
+    "questionId": 3,
+    "text": "Er zitten geen bruine vlekken op de bananen ze zijn alleen nog wel erg groen"
+  },
+  {
+    "id": 340,
+    "submissionId": 131,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 341,
+    "submissionId": 130,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 342,
+    "submissionId": 130,
+    "questionId": 3,
+    "text": "Ze zien er Lekker uit"
+  },
+  {
+    "id": 343,
+    "submissionId": 129,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 344,
+    "submissionId": 129,
+    "questionId": 3,
+    "text": "De bananen waren goed gevuld alleen waren ze groen"
+  },
+  {
+    "id": 345,
+    "submissionId": 128,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 346,
+    "submissionId": 128,
+    "questionId": 3,
+    "text": "Bananen zien er rijp uit. Geen rotte bananen gezien."
+  },
+  {
+    "id": 347,
+    "submissionId": 127,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 348,
+    "submissionId": 127,
+    "questionId": 3,
+    "text": "De bananen zien er mooi geel uit en geen verkleuringen( bruin enz) te zien"
+  },
+  {
+    "id": 349,
+    "submissionId": 126,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 350,
+    "submissionId": 126,
+    "questionId": 3,
+    "text": "Bijna alle bananen zijn zonder bruine plekken. Slechts een enkele banaan heeft hele lichte plekjes. De bananen zien er vers uit. "
+  },
+  {
+    "id": 351,
+    "submissionId": 125,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 352,
+    "submissionId": 125,
+    "questionId": 3,
+    "text": "Bananen zijn groen/geel, sommige omwikkeld met plastic bandje of plastic zak. Er zijn geen bruine bananen aanwezig"
+  },
+  {
+    "id": 353,
+    "submissionId": 124,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 354,
+    "submissionId": 124,
+    "questionId": 3,
+    "text": "ze zijn niet te groen maar ook niet te geel, een enkele banaan klein beetje bruin. "
+  },
+  {
+    "id": 355,
+    "submissionId": 123,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 356,
+    "submissionId": 123,
+    "questionId": 3,
+    "text": "De bananen zien er heel groen uit en niet heel net opgesteld"
+  },
+  {
+    "id": 357,
+    "submissionId": 122,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 358,
+    "submissionId": 122,
+    "questionId": 3,
+    "text": "Het ligt allemaal nogal rommelig en sommigen hebben wat bruine plekken"
+  },
+  {
+    "id": 359,
+    "submissionId": 121,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 360,
+    "submissionId": 121,
+    "questionId": 3,
+    "text": "Het meerdere gedeelte heeft nog een te groene kleur en zijn ze eigenlijk nog te rijp om te eten."
+  },
+  {
+    "id": 361,
+    "submissionId": 120,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 362,
+    "submissionId": 120,
+    "questionId": 3,
+    "text": "Biologisch zonder bruine vlekken klaar om opgegeten te worden. Wel vind ik 1,99 per kilo best duur   . Je kan kiezen tussen groene of rijpen bananen. "
+  },
+  {
+    "id": 363,
+    "submissionId": 119,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 364,
+    "submissionId": 119,
+    "questionId": 3,
+    "text": "Bananen die er liggen zijn mooi. Wel veel lege plekken"
+  },
+  {
+    "id": 365,
+    "submissionId": 118,
+    "questionId": 3,
+    "text": "Over het algemeen mooie gele bananen. Sommige zijn bruin. En andere zijn nog groen."
+  },
+  {
+    "id": 366,
+    "submissionId": 118,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 367,
+    "submissionId": 117,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 368,
+    "submissionId": 117,
+    "questionId": 3,
+    "text": "Niet overrijp of te groen "
+  },
+  {
+    "id": 369,
+    "submissionId": 116,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 370,
+    "submissionId": 116,
+    "questionId": 3,
+    "text": "Deel ziet er een beetje bruin uit en andere deel is nog vrij groen"
+  },
+  {
+    "id": 371,
+    "submissionId": 115,
+    "questionId": 3,
+    "text": "Zijn nog bleekjes of beetje bruin maar zien er verder prima"
+  },
+  {
+    "id": 372,
+    "submissionId": 115,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 373,
+    "submissionId": 114,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 374,
+    "submissionId": 114,
+    "questionId": 3,
+    "text": "De meeste bananen zien er goed uit maar sommige zijn een beetje bruin"
+  },
+  {
+    "id": 375,
+    "submissionId": 113,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 376,
+    "submissionId": 113,
+    "questionId": 3,
+    "text": "De bananen zijn allemaal mooi geel zonder bruine vlekken."
+  },
+  {
+    "id": 377,
+    "submissionId": 112,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 378,
+    "submissionId": 112,
+    "questionId": 3,
+    "text": "Ik zie geen donkere bananen. Bananen zijn goed rijp. Geen gekke vormen oid. Niks aan op te merken. "
+  },
+  {
+    "id": 379,
+    "submissionId": 111,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 380,
+    "submissionId": 111,
+    "questionId": 3,
+    "text": "Bananen niet te groen en niet bruin, perfect geel"
+  },
+  {
+    "id": 381,
+    "submissionId": 110,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 382,
+    "submissionId": 110,
+    "questionId": 3,
+    "text": "Er ligt een trosje bananen, er zitten bruine plekjes op, en er zitten wat deukjes in de bananen. Maar ze zijn niet te rijp."
+  },
+  {
+    "id": 383,
+    "submissionId": 109,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 384,
+    "submissionId": 109,
+    "questionId": 3,
+    "text": "Ze zijn mooi egaal geel zonder al te veel bruine plekken."
+  },
+  {
+    "id": 385,
+    "submissionId": 108,
+    "questionId": 3,
+    "text": "Sommige bananen hebben bruine plekken. De rest van de bananen ziet er wel goed uit."
+  },
+  {
+    "id": 386,
+    "submissionId": 108,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 387,
+    "submissionId": 107,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 388,
+    "submissionId": 107,
+    "questionId": 3,
+    "text": "Er zaten wat gele en licht groene trossen tussen zonder bruine plekken."
+  },
+  {
+    "id": 389,
+    "submissionId": 106,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 390,
+    "submissionId": 106,
+    "questionId": 3,
+    "text": "Ja de bananen zien er goed uit. Waarschijnlijk zijn ze net gevuld en gecontroleerd want ik kan geen slechte bananen vinden."
+  },
+  {
+    "id": 391,
+    "submissionId": 105,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 392,
+    "submissionId": 105,
+    "questionId": 3,
+    "text": "De bananen zien er vers uit, niet overdadig geel en dus nog wel een paar dagen houdbaar!"
+  },
+  {
+    "id": 393,
+    "submissionId": 104,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 394,
+    "submissionId": 104,
+    "questionId": 3,
+    "text": "Het ligt er een beetje rommelig bij, maar de bananen zijn in ieder geval rijp"
+  },
+  {
+    "id": 395,
+    "submissionId": 103,
+    "questionId": 3,
+    "text": "Sommige hebben redelijk wat bruine plekjes, maar derest wat vanboven ligt ziet er goed uit"
+  },
+  {
+    "id": 396,
+    "submissionId": 103,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 397,
+    "submissionId": 102,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 398,
+    "submissionId": 102,
+    "questionId": 3,
+    "text": "Zien er allemaal geel en groen uit. Zotten geen bruine tussen. Zijn allemaal vers."
+  },
+  {
+    "id": 399,
+    "submissionId": 101,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 400,
+    "submissionId": 101,
+    "questionId": 3,
+    "text": "Op een paar bananen zitten wat bruine vlekken, en sommige zijn nog wat groen"
+  },
+  {
+    "id": 401,
+    "submissionId": 100,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 402,
+    "submissionId": 100,
+    "questionId": 3,
+    "text": "Op een vlekje of een veegje na zien ze er goed uit. Mooi geel, niet te veel groen of bruin/zwart. "
+  },
+  {
+    "id": 403,
+    "submissionId": 99,
+    "questionId": 3,
+    "text": "Er zitten veel bananen bij met bruine plekken er al op dus rijp en minder lang houdbaar!"
+  },
+  {
+    "id": 404,
+    "submissionId": 99,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 405,
+    "submissionId": 98,
+    "questionId": 2,
+    "text": "Nee"
+  },
+  {
+    "id": 406,
+    "submissionId": 98,
+    "questionId": 3,
+    "text": "Bananen liggen slordig. Zelfs een banaan is open gescheurd. Ze zijn ook al ver rijp."
+  },
+  {
+    "id": 407,
+    "submissionId": 97,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 408,
+    "submissionId": 97,
+    "questionId": 3,
+    "text": "Op een enkeling na zien ze er lekker uit. Sommige zijn een beetje nat, maar het grootste deel is goed"
+  },
+  {
+    "id": 409,
+    "submissionId": 96,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 410,
+    "submissionId": 96,
+    "questionId": 3,
+    "text": "Allemaal netjes geel, mooi groot en redelijk veel aan een tros"
+  },
+  {
+    "id": 411,
+    "submissionId": 95,
+    "questionId": 3,
+    "text": "Ze liggen nogal slordig en rommelig door elkaar, er liggen wat dingen zoals papiertjes tussen en het schap zelf is een beetje vies."
+  },
+  {
+    "id": 412,
+    "submissionId": 95,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 413,
+    "submissionId": 94,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 414,
+    "submissionId": 94,
+    "questionId": 3,
+    "text": "Bananen zien er goed uit. Schap is goed gevuld."
+  },
+  {
+    "id": 415,
+    "submissionId": 93,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 416,
+    "submissionId": 93,
+    "questionId": 3,
+    "text": "De bananen zijn mooi geel, geen vieze plekken en allen zijn heel"
+  },
+  {
+    "id": 417,
+    "submissionId": 92,
+    "questionId": 3,
+    "text": "Netjes maar door drukte bijna leeg"
+  },
+  {
+    "id": 418,
+    "submissionId": 92,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 419,
+    "submissionId": 91,
+    "questionId": 3,
+    "text": "De bananen zien er mooi geel uit, geen vlekken of rot!"
+  },
+  {
+    "id": 420,
+    "submissionId": 91,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 421,
+    "submissionId": 90,
+    "questionId": 3,
+    "text": "Ziet er goed uit, ik ga ze gelijk kopen"
+  },
+  {
+    "id": 422,
+    "submissionId": 90,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 423,
+    "submissionId": 89,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 424,
+    "submissionId": 89,
+    "questionId": 3,
+    "text": "De bananen zijn mooi geel van kleur en geen bruine plekken. Ze hebben ook een mooi formaat, niet te klein."
+  },
+  {
+    "id": 425,
+    "submissionId": 88,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 426,
+    "submissionId": 88,
+    "questionId": 3,
+    "text": "De bananen zijn mooi geel, tegen het groene aan daarnaast zijn er ook bijna geen bruine plekken te zien."
+  },
+  {
+    "id": 427,
+    "submissionId": 87,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 428,
+    "submissionId": 87,
+    "questionId": 3,
+    "text": "De bananen zijn nog eigenlijk allemaal groen, je kunt ze dus niet meteen eten"
+  },
+  {
+    "id": 429,
+    "submissionId": 86,
+    "questionId": 3,
+    "text": "Schap ziet er goed uit omdat er Geen zwarte bananen of juist helemaal groene banenen liggen. Alles ligt Netjes gesorteerd in het schap."
+  },
+  {
+    "id": 430,
+    "submissionId": 86,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 431,
+    "submissionId": 85,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 432,
+    "submissionId": 85,
+    "questionId": 3,
+    "text": "Geen plekken, gewoon geel, prachtige tros met keurige banaantjes."
+  },
+  {
+    "id": 433,
+    "submissionId": 84,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 434,
+    "submissionId": 84,
+    "questionId": 3,
+    "text": "De helft van de bananen ziet er goed uit en de andere helft van de bananen niet erg goed"
+  },
+  {
+    "id": 435,
+    "submissionId": 83,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 436,
+    "submissionId": 83,
+    "questionId": 3,
+    "text": "Het schap is zo goed gevuld dat ik bananen aan de kant moest leggen om de prijs zichtbaar te maken. Tevens zijn ze allen erg vers, nog net niet rijp."
+  },
+  {
+    "id": 437,
+    "submissionId": 82,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 438,
+    "submissionId": 82,
+    "questionId": 3,
+    "text": "Ze zijn nog (heel erg) groenig en op sommige zitten zwart bruine plekjes. "
+  },
+  {
+    "id": 439,
+    "submissionId": 81,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 440,
+    "submissionId": 81,
+    "questionId": 3,
+    "text": "Er liggen veel groene bananen in het schap, verder zien ze er goed uit"
+  },
+  {
+    "id": 441,
+    "submissionId": 80,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 442,
+    "submissionId": 80,
+    "questionId": 3,
+    "text": "Er zijn er een aantal met bruime plekken. En ook een aantal die wel volledig geel zijn"
+  },
+  {
+    "id": 443,
+    "submissionId": 79,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 444,
+    "submissionId": 79,
+    "questionId": 3,
+    "text": "Mooie kleuren. Goed en rijp. Goeie prijs verhouding. "
+  },
+  {
+    "id": 445,
+    "submissionId": 78,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 446,
+    "submissionId": 78,
+    "questionId": 3,
+    "text": "Normaal zijn ze vrij groen. Hier zitten vrij gele tussen."
+  },
+  {
+    "id": 447,
+    "submissionId": 77,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 448,
+    "submissionId": 77,
+    "questionId": 3,
+    "text": "Vrij groen en hebben wat bruine plekjes. Ook zijn de trossen los van elkaar gehaald, waardoor er wat losse bananen liggen."
+  },
+  {
+    "id": 449,
+    "submissionId": 76,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 450,
+    "submissionId": 76,
+    "questionId": 3,
+    "text": "De bananen zien er vers uit, geen tot weinig bruine plekken, veel geel en een aantal nog vers groen"
+  },
+  {
+    "id": 451,
+    "submissionId": 75,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 452,
+    "submissionId": 75,
+    "questionId": 3,
+    "text": "Ze zijn mooi groen aan de bovenkant en vanaf 2cm aan de bovenkant naar beneden zijn ze mooi geel. Ze liggen er ook netjes uitgestald bij. Zien er fris uit"
+  },
+  {
+    "id": 453,
+    "submissionId": 74,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 454,
+    "submissionId": 74,
+    "questionId": 3,
+    "text": "De bananen zijn mooi veel met aan de uiteinden een goenige kleur. Ze zijn dus goed om mee naar huis te nemen."
+  },
+  {
+    "id": 455,
+    "submissionId": 73,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 456,
+    "submissionId": 73,
+    "questionId": 3,
+    "text": "Ja want ze zijn mooi geel en niet bedorven"
+  },
+  {
+    "id": 457,
+    "submissionId": 72,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 458,
+    "submissionId": 72,
+    "questionId": 3,
+    "text": "Sommige bananen zijn naar mijn menig al te rijp en niet lang bewaarbaar in huis na aankoop"
+  },
+  {
+    "id": 459,
+    "submissionId": 71,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 460,
+    "submissionId": 71,
+    "questionId": 3,
+    "text": "Er zitten weinig bruine plekjes op en ze zijn mooi van kleur."
+  },
+  {
+    "id": 461,
+    "submissionId": 70,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 462,
+    "submissionId": 70,
+    "questionId": 3,
+    "text": "De bananen staan in een doos in het schap. Deze doos is voor ongeveer 60% gevuld. De bananen zijn mooi geel zonder bruine plekjes. "
+  },
+  {
+    "id": 463,
+    "submissionId": 69,
+    "questionId": 3,
+    "text": "Er zijn hele mooie bananen bij, maar sommige hebben ook erg veel bruine vlekken."
+  },
+  {
+    "id": 464,
+    "submissionId": 69,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 465,
+    "submissionId": 68,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 466,
+    "submissionId": 68,
+    "questionId": 3,
+    "text": "Alle bananen zijn geel(geen groenen) plus veel bruine plekken"
+  },
+  {
+    "id": 467,
+    "submissionId": 67,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 468,
+    "submissionId": 67,
+    "questionId": 3,
+    "text": "Bananen zijn nog niet bruin, maar allemaal geel. Ook geen groene, onrijpe bananen."
+  },
+  {
+    "id": 469,
+    "submissionId": 66,
+    "questionId": 3,
+    "text": "Mooi geel niet bruin of iets dergelijks alleen de biologische bananen zijn iets bruiner"
+  },
+  {
+    "id": 470,
+    "submissionId": 66,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 471,
+    "submissionId": 65,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 472,
+    "submissionId": 65,
+    "questionId": 3,
+    "text": "Bananen zien er goed uit. Mooi geel. Bijna geen 1 met bruine vlekjes of groen. "
+  },
+  {
+    "id": 473,
+    "submissionId": 64,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 474,
+    "submissionId": 64,
+    "questionId": 3,
+    "text": "Sommige bananen zijn al iets bruin uitgeslagen, anderen zijn opengescheurd.. Sommige trossen zien wr gewoon mooi uit."
+  },
+  {
+    "id": 475,
+    "submissionId": 63,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 476,
+    "submissionId": 63,
+    "questionId": 3,
+    "text": "Of ze zijn wat bruinig of iets te groen"
+  },
+  {
+    "id": 477,
+    "submissionId": 62,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 478,
+    "submissionId": 62,
+    "questionId": 3,
+    "text": "Ze zijn wel aardig klein maar verder zijn er geen bruine vlekken te zien."
+  },
+  {
+    "id": 479,
+    "submissionId": 61,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 480,
+    "submissionId": 61,
+    "questionId": 3,
+    "text": "Omdat ze geel.groen zijn zoals een banaan hoort te zijn ipv bruin"
+  },
+  {
+    "id": 481,
+    "submissionId": 60,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 482,
+    "submissionId": 60,
+    "questionId": 3,
+    "text": "Ze zijn allemaal mooi geel en het schap ligt bijna vol. "
+  },
+  {
+    "id": 483,
+    "submissionId": 59,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 484,
+    "submissionId": 59,
+    "questionId": 3,
+    "text": "Op het oog zien ze er goed uit. toch is er 1 die een grote bruine plek heeft en op die plek lekt. Deze banaan zit aan de achterkant. "
+  },
+  {
+    "id": 485,
+    "submissionId": 58,
+    "questionId": 3,
+    "text": "De bananen zijn geel of een klein beetje groen en er zijn geen bruine plekken te zien"
+  },
+  {
+    "id": 486,
+    "submissionId": 58,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 487,
+    "submissionId": 57,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 488,
+    "submissionId": 57,
+    "questionId": 3,
+    "text": "De bananen zijn niet bruin en niet al te rijp, ook liggen ze nog in grote bossen bananen en niet veel losse bananen."
+  },
+  {
+    "id": 489,
+    "submissionId": 56,
+    "questionId": 3,
+    "text": "Ze zien er goed uit, geen plekken etc"
+  },
+  {
+    "id": 490,
+    "submissionId": 56,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 491,
+    "submissionId": 55,
+    "questionId": 3,
+    "text": "Groenig"
+  },
+  {
+    "id": 492,
+    "submissionId": 55,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 493,
+    "submissionId": 54,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 494,
+    "submissionId": 54,
+    "questionId": 3,
+    "text": "Mooi geel..niet te rijp maar ook niet te groen. Jammer dat de voorraad al flink uitgedund is."
+  },
+  {
+    "id": 495,
+    "submissionId": 53,
+    "questionId": 3,
+    "text": "Ze zijn mooi rijp, hebben een gezonde gele kleur en zijn groot van stuk."
+  },
+  {
+    "id": 496,
+    "submissionId": 53,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 497,
+    "submissionId": 52,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 498,
+    "submissionId": 52,
+    "questionId": 3,
+    "text": "Ze waren groenig tot geel en de bananen hadden bijna geen bruine plekken."
+  },
+  {
+    "id": 499,
+    "submissionId": 51,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 500,
+    "submissionId": 51,
+    "questionId": 3,
+    "text": "De bananen zijn mooi geel, soms lichtgroen van kleur. Ook de uiteinden van de trossen zijn mooi bruin ipv zwart. Daarnaast zijn er nauwelijks zwarte plekken te bekennen op de bananen"
+  },
+  {
+    "id": 501,
+    "submissionId": 50,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 502,
+    "submissionId": 50,
+    "questionId": 3,
+    "text": "Bananen zien er goed uit. Mooi van kleur. Er komt ook water uit sproeiertjes die zich naast het schap bevinden waardoor de bananen steeds vochtig blijven."
+  },
+  {
+    "id": 503,
+    "submissionId": 49,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 504,
+    "submissionId": 49,
+    "questionId": 3,
+    "text": "Geel sommige nog een beetje groen. Mooie grote qua formaat"
+  },
+  {
+    "id": 505,
+    "submissionId": 48,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 506,
+    "submissionId": 48,
+    "questionId": 3,
+    "text": "Ze zijn mooi geel en maar een enkele banaan heeft een paar bruine plekken.  Ze zien er mooi gezond uit."
+  },
+  {
+    "id": 507,
+    "submissionId": 47,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 508,
+    "submissionId": 47,
+    "questionId": 3,
+    "text": "Schap staat er nu keurig bij... ben waarschijnlijk net gespot en is deze gelijk aangevuld."
+  },
+  {
+    "id": 509,
+    "submissionId": 46,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 510,
+    "submissionId": 46,
+    "questionId": 3,
+    "text": "ze zijn goed geel van kleur en niet bruin of met rare plekken "
+  },
+  {
+    "id": 511,
+    "submissionId": 45,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 512,
+    "submissionId": 45,
+    "questionId": 3,
+    "text": "Ze zijn nog niet helemaal rijp maar wel goed van vorm."
+  },
+  {
+    "id": 513,
+    "submissionId": 44,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 514,
+    "submissionId": 44,
+    "questionId": 3,
+    "text": "Aan bijna elke tros bananen zit een banaan of meerdere met bruine, beschadigde plekken."
+  },
+  {
+    "id": 515,
+    "submissionId": 43,
+    "questionId": 3,
+    "text": "Er liggen veel bananen, en deze zien er goed uit. Mooi geel. Bananenschap zit alleen achter een paal."
+  },
+  {
+    "id": 516,
+    "submissionId": 43,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 517,
+    "submissionId": 42,
+    "questionId": 3,
+    "text": "De bananen zijn allemaal geel/groen op ongeveer 2 trossen na."
+  },
+  {
+    "id": 518,
+    "submissionId": 42,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 519,
+    "submissionId": 41,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 520,
+    "submissionId": 41,
+    "questionId": 3,
+    "text": "Sommige zijn bruin en een behoorljk aantal zijn groen. Echt veel eetrijpe bananen liggen er niet."
+  },
+  {
+    "id": 521,
+    "submissionId": 40,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 522,
+    "submissionId": 40,
+    "questionId": 3,
+    "text": "De bananen zien er redelijk goed uit, ze waren daadwerkelijk ook net gevuld. Maar voor net gevulde bananen vond ik er wel al veel bruine punten of strepen op zitten"
+  },
+  {
+    "id": 523,
+    "submissionId": 39,
+    "questionId": 3,
+    "text": "Er zitten geen vieze, bruine plekken op. Ze zijn dus niet te rijp, en ze liggen in mooie trossen."
+  },
+  {
+    "id": 524,
+    "submissionId": 39,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 525,
+    "submissionId": 38,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 526,
+    "submissionId": 38,
+    "questionId": 3,
+    "text": "Goed van kleur en net uit de doos denk ik"
+  },
+  {
+    "id": 527,
+    "submissionId": 37,
+    "questionId": 3,
+    "text": "De bananen zien er mooi geel uit. Geen bruine plekken."
+  },
+  {
+    "id": 528,
+    "submissionId": 37,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 529,
+    "submissionId": 36,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 530,
+    "submissionId": 36,
+    "questionId": 3,
+    "text": "Ze zijn niet zwart gekleurd. Zelfs groen nog"
+  },
+  {
+    "id": 531,
+    "submissionId": 35,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 532,
+    "submissionId": 35,
+    "questionId": 3,
+    "text": "Het schap is voor een kwart gevuld met bananen die bruine vlekjes hebben"
+  },
+  {
+    "id": 533,
+    "submissionId": 34,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 534,
+    "submissionId": 34,
+    "questionId": 3,
+    "text": "De meeste zijn nog groen dus dat is goed."
+  },
+  {
+    "id": 535,
+    "submissionId": 33,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 536,
+    "submissionId": 33,
+    "questionId": 3,
+    "text": "De meeste bananen zijn nog niet helemaal rijp, een beetje groen nog dus dan kunnen ze langer liggen."
+  },
+  {
+    "id": 537,
+    "submissionId": 32,
+    "questionId": 2,
+    "text": "Nee"
+  },
+  {
+    "id": 538,
+    "submissionId": 32,
+    "questionId": 3,
+    "text": "Zitten verschillend bananen tussen met bruine plekken. Ook zijn er een aantal opengebarsten."
+  },
+  {
+    "id": 539,
+    "submissionId": 31,
+    "questionId": 3,
+    "text": "Ze zijn allemaal geel een paar trossen wat groen voor langer behoud van de bananen!"
+  },
+  {
+    "id": 540,
+    "submissionId": 31,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 541,
+    "submissionId": 30,
+    "questionId": 3,
+    "text": "De bananen zijn niet groen of juist bruin, er is alleen niet zoveel keuze."
+  },
+  {
+    "id": 542,
+    "submissionId": 30,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 543,
+    "submissionId": 29,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 544,
+    "submissionId": 29,
+    "questionId": 3,
+    "text": "De bananentrossen zijn ieder geel gekleurd. Alleen de onderste trossen bevatten een paar zwarte plekjes."
+  },
+  {
+    "id": 545,
+    "submissionId": 28,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 546,
+    "submissionId": 28,
+    "questionId": 3,
+    "text": "Ik zie geen rijpe bananen of een dergelijk probleem"
+  },
+  {
+    "id": 547,
+    "submissionId": 27,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 548,
+    "submissionId": 27,
+    "questionId": 3,
+    "text": "Veel bananen zijn al wat bruin.sommige zelfs groen en bruin tegelijkertijd. "
+  },
+  {
+    "id": 549,
+    "submissionId": 26,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 550,
+    "submissionId": 26,
+    "questionId": 3,
+    "text": "Verschillende soorten banaan, bio en normaal en een soort euroshoppermerk in zakken. Allemaal mooi geel, nauwelijks bruine vlekjes."
+  },
+  {
+    "id": 551,
+    "submissionId": 25,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 552,
+    "submissionId": 25,
+    "questionId": 3,
+    "text": "Er zitten een paar bananen tussen die bruine vlekken hebben. En een paar zijn licht groen. "
+  },
+  {
+    "id": 553,
+    "submissionId": 24,
+    "questionId": 3,
+    "text": "De bananen zien er mooi geel uit, sommige nog een btje groen wat mij wijst op een vers product. Geen bruine bananen!"
+  },
+  {
+    "id": 554,
+    "submissionId": 24,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 555,
+    "submissionId": 23,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 556,
+    "submissionId": 23,
+    "questionId": 3,
+    "text": "Op elke banaan zit wel een bruine plek, voor de rest zien ze er niet beschadigd uit."
+  },
+  {
+    "id": 557,
+    "submissionId": 22,
+    "questionId": 3,
+    "text": "De bananen zijn geel met soms een heel klein beetje groen wat erop duidt dat ze nog niet helemaal rijp zijn maar over 1 a 2 dagen wel"
+  },
+  {
+    "id": 558,
+    "submissionId": 22,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 559,
+    "submissionId": 21,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 560,
+    "submissionId": 21,
+    "questionId": 3,
+    "text": "Het schap is ongeveer voor de helft gevuld en de bananen zie. er goed, groen en geel uit."
+  },
+  {
+    "id": 561,
+    "submissionId": 20,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 562,
+    "submissionId": 20,
+    "questionId": 3,
+    "text": "Mooie gele kleur, geen bruine of groene plekken op de bananen. "
+  },
+  {
+    "id": 563,
+    "submissionId": 19,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 564,
+    "submissionId": 19,
+    "questionId": 3,
+    "text": "De Chiquita bananen zijn mooi geel met amper nurse plekjes. De Fairtrade bananen zijn wat groen en de Chiquita kids zijn ingepakt maar ook mooi geel"
+  },
+  {
+    "id": 565,
+    "submissionId": 18,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 566,
+    "submissionId": 18,
+    "questionId": 3,
+    "text": "Ze zijn wel vers maar niet echt netjes naast elkaar gezet. Alle soorten bananen waren wel bij elkaar."
+  },
+  {
+    "id": 567,
+    "submissionId": 17,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 568,
+    "submissionId": 17,
+    "questionId": 3,
+    "text": "De bananen zien er goed uit helaas niet vol gevuld"
+  },
+  {
+    "id": 569,
+    "submissionId": 16,
+    "questionId": 3,
+    "text": "Al wat rijpe bananen in het vak. Geen bananen die je nog een paar dagen kunt laten liggen."
+  },
+  {
+    "id": 570,
+    "submissionId": 16,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 571,
+    "submissionId": 15,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 572,
+    "submissionId": 15,
+    "questionId": 3,
+    "text": "Alle bananen zijn van een mooie kleur, verder geen beschadigingen of rottingen"
+  },
+  {
+    "id": 573,
+    "submissionId": 14,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 574,
+    "submissionId": 14,
+    "questionId": 3,
+    "text": "De bananen zijn voor een deel mooi geel, maar veel bananen zijn beschadigd, bruin aan het worden of juist nog erg groen."
+  },
+  {
+    "id": 575,
+    "submissionId": 13,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 576,
+    "submissionId": 13,
+    "questionId": 3,
+    "text": "Er lagen een aantal kapotte bananen en wat bruine. Meeste waren echter wel goed. Paar minuten na de foto werden een aantal bananen door een medewerker verwijderd."
+  },
+  {
+    "id": 577,
+    "submissionId": 12,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 578,
+    "submissionId": 12,
+    "questionId": 3,
+    "text": "Een aantal bananen zijn nog licht groen, grotendeels van de bananen zijn geel met aan de top een stukje groen. Er zitten enkele bananen tussen met een klein zwart plekje."
+  },
+  {
+    "id": 579,
+    "submissionId": 11,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 580,
+    "submissionId": 11,
+    "questionId": 3,
+    "text": "De bananen waren niet meer groen, maar ook nog niet bruin, oftewel ze zagen er lekker uit!"
+  },
+  {
+    "id": 581,
+    "submissionId": 10,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 582,
+    "submissionId": 10,
+    "questionId": 3,
+    "text": "Bananen zijn niet vers, zwarte plekjes op de bananen"
+  },
+  {
+    "id": 583,
+    "submissionId": 9,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 584,
+    "submissionId": 9,
+    "questionId": 3,
+    "text": "Ze zijn nog niet superrijp en ze liggen mooi naast elkaar in de schappen van de winkel."
+  },
+  {
+    "id": 585,
+    "submissionId": 8,
+    "questionId": 3,
+    "text": "Kleur van de bananen zijn mooi geel, geen bruine plekken."
+  },
+  {
+    "id": 586,
+    "submissionId": 8,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 587,
+    "submissionId": 7,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 588,
+    "submissionId": 7,
+    "questionId": 3,
+    "text": "De bananen zien er schoon netjes en fris uit zonder bedorven plekjes "
+  },
+  {
+    "id": 589,
+    "submissionId": 6,
+    "questionId": 3,
+    "text": "Over smaak valt niet te twisten. Er zijn mensen die gele, zonder bruin vlekken kopen, maar sporters kopen de "
+  },
+  {
+    "id": 590,
+    "submissionId": 6,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 591,
+    "submissionId": 5,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 592,
+    "submissionId": 5,
+    "questionId": 3,
+    "text": "Er zitten geen bruine of rotte bananen tussen, maar ze zijn wel allemaal geel en niet groen of licht groen. Je moet ze dus wel binnen een paar dagen opeten."
+  },
+  {
+    "id": 593,
+    "submissionId": 4,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 594,
+    "submissionId": 4,
+    "questionId": 3,
+    "text": "Ze zijn nog niet rijp dus goed kan je ze thuis nog ff laten liggen."
+  },
+  {
+    "id": 595,
+    "submissionId": 3,
+    "questionId": 3,
+    "text": "Vooral op de Fairtrade bananen zitten wat bruine vlekjes (vooral de bananen die vooraan liggen). De Chiquita bananen zien er wel heel goed uit!"
+  },
+  {
+    "id": 596,
+    "submissionId": 3,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 597,
+    "submissionId": 2,
+    "questionId": 2,
+    "text": "Ja"
+  },
+  {
+    "id": 598,
+    "submissionId": 2,
+    "questionId": 3,
+    "text": "Alle bananen zijn mooi geel. Op 1 hand zijn de bananen met bruine vlekjes te tellen"
+  },
+  {
+    "id": 599,
+    "submissionId": 1,
+    "questionId": 3,
+    "text": "De AH biologische bananen zijn al iets te rijp aan de schil te zien."
+  },
+  {
+    "id": 600,
+    "submissionId": 1,
+    "questionId": 2,
+    "text": "Redelijk"
+  },
+  {
+    "id": 601,
+    "submissionId": 200,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 602,
+    "submissionId": 200,
+    "questionId": 4,
+    "text": "De bananen staan aan het einde van een rij  naast de sinaasappel pers. Deze foto laat het beste het overzicht zien met de bananen duidelijk op de foto."
+  },
+  {
+    "id": 603,
+    "submissionId": 199,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 604,
+    "submissionId": 198,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 605,
+    "submissionId": 197,
+    "questionId": 4,
+    "text": "Nee, alleen is jumbo op rosendaalse weg dichter bij mijn huis.En deze locatie is moeilijker te bereiken"
+  },
+  {
+    "id": 606,
+    "submissionId": 197,
+    "questionId": 5,
+    "text": "Nee, voor ongeveer 0 - 20%"
+  },
+  {
+    "id": 607,
+    "submissionId": 196,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 608,
+    "submissionId": 195,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 609,
+    "submissionId": 194,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 610,
+    "submissionId": 194,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 611,
+    "submissionId": 193,
+    "questionId": 5,
+    "text": "Nee, voor ongeveer 0 - 20%"
+  },
+  {
+    "id": 612,
+    "submissionId": 193,
+    "questionId": 4,
+    "text": "Verder vond ik het schap niet echt schoon. Zijn dat dingen die je ook moet vermelden? "
+  },
+  {
+    "id": 613,
+    "submissionId": 192,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 614,
+    "submissionId": 192,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 615,
+    "submissionId": 191,
+    "questionId": 5,
+    "text": "Nee, voor ongeveer 0 - 20%"
+  },
+  {
+    "id": 616,
+    "submissionId": 190,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 617,
+    "submissionId": 190,
+    "questionId": 4,
+    "text": "Een heel smal gangpad, nog geen 150 cm. En ik kon niet over de koeling t.o. de bananen heen een foto maken omdat daar reclame borden op staan. Vandaar een schuine en niet frontale foto. "
+  },
+  {
+    "id": 618,
+    "submissionId": 189,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 619,
+    "submissionId": 189,
+    "questionId": 4,
+    "text": "moest snel even een foto maken want er liep overal personeel rond"
+  },
+  {
+    "id": 620,
+    "submissionId": 188,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 621,
+    "submissionId": 188,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 622,
+    "submissionId": 187,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 623,
+    "submissionId": 187,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 624,
+    "submissionId": 186,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 625,
+    "submissionId": 185,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 626,
+    "submissionId": 185,
+    "questionId": 4,
+    "text": "Spannend om een foto te maken....."
+  },
+  {
+    "id": 627,
+    "submissionId": 184,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 628,
+    "submissionId": 184,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 629,
+    "submissionId": 183,
+    "questionId": 5,
+    "text": "Nee, voor ongeveer 0 - 20%"
+  },
+  {
+    "id": 630,
+    "submissionId": 182,
+    "questionId": 5,
+    "text": "Nee, voor ongeveer 0 - 20%"
+  },
+  {
+    "id": 631,
+    "submissionId": 181,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 632,
+    "submissionId": 180,
+    "questionId": 4,
+    "text": "Leuke bezigheid als je toch boodschappen aan het doen bent. En je bekijkt de supermarkt eens op een andere manier."
+  },
+  {
+    "id": 633,
+    "submissionId": 180,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 634,
+    "submissionId": 179,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 635,
+    "submissionId": 178,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 636,
+    "submissionId": 178,
+    "questionId": 4,
+    "text": "Nee"
+  },
+  {
+    "id": 637,
+    "submissionId": 177,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 638,
+    "submissionId": 177,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 639,
+    "submissionId": 176,
+    "questionId": 4,
+    "text": "Staat nog een display op 2de locatie in de winkel. Beide mooi gepresenteerd."
+  },
+  {
+    "id": 640,
+    "submissionId": 176,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 641,
+    "submissionId": 175,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 642,
+    "submissionId": 175,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 643,
+    "submissionId": 174,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 644,
+    "submissionId": 173,
+    "questionId": 5,
+    "text": "Niet helemaal, 20 - 40%"
+  },
+  {
+    "id": 645,
+    "submissionId": 172,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 646,
+    "submissionId": 172,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 647,
+    "submissionId": 171,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 648,
+    "submissionId": 170,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 649,
+    "submissionId": 169,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 650,
+    "submissionId": 168,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 651,
+    "submissionId": 168,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 652,
+    "submissionId": 167,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 653,
+    "submissionId": 167,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 654,
+    "submissionId": 165,
+    "questionId": 5,
+    "text": "Niet helemaal, 20 - 40%"
+  },
+  {
+    "id": 655,
+    "submissionId": 164,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 656,
+    "submissionId": 166,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 657,
+    "submissionId": 166,
+    "questionId": 4,
+    "text": "Nee"
+  },
+  {
+    "id": 658,
+    "submissionId": 163,
+    "questionId": 5,
+    "text": "Niet helemaal, 20 - 40%"
+  },
+  {
+    "id": 659,
+    "submissionId": 162,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 660,
+    "submissionId": 162,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 661,
+    "submissionId": 161,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 662,
+    "submissionId": 161,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 663,
+    "submissionId": 160,
+    "questionId": 5,
+    "text": "Niet helemaal, 20 - 40%"
+  },
+  {
+    "id": 664,
+    "submissionId": 159,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 665,
+    "submissionId": 159,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 666,
+    "submissionId": 158,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 667,
+    "submissionId": 157,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 668,
+    "submissionId": 156,
+    "questionId": 5,
+    "text": "Niet helemaal, 20 - 40%"
+  },
+  {
+    "id": 669,
+    "submissionId": 155,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 670,
+    "submissionId": 154,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 671,
+    "submissionId": 153,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 672,
+    "submissionId": 153,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 673,
+    "submissionId": 152,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 674,
+    "submissionId": 152,
+    "questionId": 4,
+    "text": "De foto is wat schuin genomen door een smal gangpad"
+  },
+  {
+    "id": 675,
+    "submissionId": 151,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 676,
+    "submissionId": 151,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 677,
+    "submissionId": 150,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 678,
+    "submissionId": 150,
+    "questionId": 4,
+    "text": "Deze supermarkt is al een tijdje geen C1000 meer, maar een Albert Heijn. "
+  },
+  {
+    "id": 679,
+    "submissionId": 149,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 680,
+    "submissionId": 149,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 681,
+    "submissionId": 148,
+    "questionId": 4,
+    "text": "Gave opdracht!"
+  },
+  {
+    "id": 682,
+    "submissionId": 148,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 683,
+    "submissionId": 147,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 684,
+    "submissionId": 146,
+    "questionId": 5,
+    "text": "Niet helemaal, 20 - 40%"
+  },
+  {
+    "id": 685,
+    "submissionId": 146,
+    "questionId": 4,
+    "text": "Een medewerker stond in de buurt om het fruit aan te vullen. Hierop stonden ook 2 dozen bananen v h met chicita."
+  },
+  {
+    "id": 686,
+    "submissionId": 145,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 687,
+    "submissionId": 145,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 688,
+    "submissionId": 144,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 689,
+    "submissionId": 144,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 690,
+    "submissionId": 143,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 691,
+    "submissionId": 143,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 692,
+    "submissionId": 142,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 693,
+    "submissionId": 141,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 694,
+    "submissionId": 141,
+    "questionId": 4,
+    "text": "Goede en belangrijke opdracht"
+  },
+  {
+    "id": 695,
+    "submissionId": 139,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 696,
+    "submissionId": 140,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 697,
+    "submissionId": 140,
+    "questionId": 4,
+    "text": "Nee . hoor.  Wel spannend,  mijn eerste foto-opdracht. "
+  },
+  {
+    "id": 698,
+    "submissionId": 138,
+    "questionId": 5,
+    "text": "Niet helemaal, 20 - 40%"
+  },
+  {
+    "id": 699,
+    "submissionId": 137,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 700,
+    "submissionId": 136,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 701,
+    "submissionId": 135,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 702,
+    "submissionId": 135,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 703,
+    "submissionId": 134,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 704,
+    "submissionId": 133,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 705,
+    "submissionId": 132,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 706,
+    "submissionId": 131,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 707,
+    "submissionId": 130,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 708,
+    "submissionId": 130,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 709,
+    "submissionId": 129,
+    "questionId": 4,
+    "text": "Nee"
+  },
+  {
+    "id": 710,
+    "submissionId": 129,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 711,
+    "submissionId": 128,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 712,
+    "submissionId": 127,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 713,
+    "submissionId": 126,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 714,
+    "submissionId": 126,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 715,
+    "submissionId": 125,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 716,
+    "submissionId": 125,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 717,
+    "submissionId": 124,
+    "questionId": 5,
+    "text": "Niet helemaal, 20 - 40%"
+  },
+  {
+    "id": 718,
+    "submissionId": 124,
+    "questionId": 4,
+    "text": "Leuke en makkelijke opdracht. "
+  },
+  {
+    "id": 719,
+    "submissionId": 123,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 720,
+    "submissionId": 123,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 721,
+    "submissionId": 122,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 722,
+    "submissionId": 121,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 723,
+    "submissionId": 120,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 724,
+    "submissionId": 120,
+    "questionId": 4,
+    "text": "Klein schap , weinig keuze maar wel biologisch"
+  },
+  {
+    "id": 725,
+    "submissionId": 119,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 726,
+    "submissionId": 119,
+    "questionId": 4,
+    "text": "Nee"
+  },
+  {
+    "id": 727,
+    "submissionId": 118,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 728,
+    "submissionId": 117,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 729,
+    "submissionId": 117,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 730,
+    "submissionId": 116,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 731,
+    "submissionId": 115,
+    "questionId": 4,
+    "text": "Leuk !"
+  },
+  {
+    "id": 732,
+    "submissionId": 115,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 733,
+    "submissionId": 114,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 734,
+    "submissionId": 114,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 735,
+    "submissionId": 113,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 736,
+    "submissionId": 112,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 737,
+    "submissionId": 112,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 738,
+    "submissionId": 111,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 739,
+    "submissionId": 111,
+    "questionId": 4,
+    "text": "Eerste opdracht. Niet bijzonder!"
+  },
+  {
+    "id": 740,
+    "submissionId": 110,
+    "questionId": 4,
+    "text": "Ze hebben niet echt een bananen afdeling, omdat het een hele kleine buurtsuper is. Het was alleen een kratje, ze hadden ook maar een soort."
+  },
+  {
+    "id": 741,
+    "submissionId": 110,
+    "questionId": 5,
+    "text": "Nee, voor ongeveer 0 - 20%"
+  },
+  {
+    "id": 742,
+    "submissionId": 109,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 743,
+    "submissionId": 109,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 744,
+    "submissionId": 108,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 745,
+    "submissionId": 107,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 746,
+    "submissionId": 107,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 747,
+    "submissionId": 106,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 748,
+    "submissionId": 106,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 749,
+    "submissionId": 105,
+    "questionId": 4,
+    "text": "-"
+  },
+  {
+    "id": 750,
+    "submissionId": 105,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 751,
+    "submissionId": 104,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 752,
+    "submissionId": 104,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 753,
+    "submissionId": 103,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 754,
+    "submissionId": 102,
+    "questionId": 4,
+    "text": "Gangpad is te klein om een foto van vooraf te nemen. Vandaar dat ik de foto schuin genomen heb."
+  },
+  {
+    "id": 755,
+    "submissionId": 102,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 756,
+    "submissionId": 101,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 757,
+    "submissionId": 100,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 758,
+    "submissionId": 100,
+    "questionId": 4,
+    "text": "Makkelijke opdracht en kost weinig tijd en moeite"
+  },
+  {
+    "id": 759,
+    "submissionId": 99,
+    "questionId": 4,
+    "text": "Duidelijke opdracht en alles klopte"
+  },
+  {
+    "id": 760,
+    "submissionId": 99,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 761,
+    "submissionId": 98,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 762,
+    "submissionId": 97,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 763,
+    "submissionId": 96,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 764,
+    "submissionId": 95,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 765,
+    "submissionId": 94,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 766,
+    "submissionId": 94,
+    "questionId": 4,
+    "text": "Dit is niet de C1000, maar de Albert Heijn. Is sinds kort van C1000 naar Albert Heijn veranderd."
+  },
+  {
+    "id": 767,
+    "submissionId": 93,
+    "questionId": 5,
+    "text": "Niet helemaal, 20 - 40%"
+  },
+  {
+    "id": 768,
+    "submissionId": 93,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 769,
+    "submissionId": 92,
+    "questionId": 5,
+    "text": "Niet helemaal, 20 - 40%"
+  },
+  {
+    "id": 770,
+    "submissionId": 92,
+    "questionId": 4,
+    "text": "Bio banaan is lekker"
+  },
+  {
+    "id": 771,
+    "submissionId": 91,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 772,
+    "submissionId": 90,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 773,
+    "submissionId": 89,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 774,
+    "submissionId": 89,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 775,
+    "submissionId": 88,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 776,
+    "submissionId": 88,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 777,
+    "submissionId": 87,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 778,
+    "submissionId": 87,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 779,
+    "submissionId": 86,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 780,
+    "submissionId": 85,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 781,
+    "submissionId": 85,
+    "questionId": 4,
+    "text": "Lindenstraat 4 is het nieuwe adres, burg viezeestraat is weg.(2 straten verderop)"
+  },
+  {
+    "id": 782,
+    "submissionId": 84,
+    "questionId": 5,
+    "text": "Niet helemaal, 20 - 40%"
+  },
+  {
+    "id": 783,
+    "submissionId": 84,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 784,
+    "submissionId": 83,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 785,
+    "submissionId": 83,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 786,
+    "submissionId": 82,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 787,
+    "submissionId": 82,
+    "questionId": 4,
+    "text": "Ik vind het een uitstekende oefenopdracht. "
+  },
+  {
+    "id": 788,
+    "submissionId": 81,
+    "questionId": 5,
+    "text": "Nee, voor ongeveer 0 - 20%"
+  },
+  {
+    "id": 789,
+    "submissionId": 80,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 790,
+    "submissionId": 80,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 791,
+    "submissionId": 79,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 792,
+    "submissionId": 79,
+    "questionId": 4,
+    "text": "Nee."
+  },
+  {
+    "id": 793,
+    "submissionId": 78,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 794,
+    "submissionId": 78,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 795,
+    "submissionId": 77,
+    "questionId": 5,
+    "text": "Nee, voor ongeveer 0 - 20%"
+  },
+  {
+    "id": 796,
+    "submissionId": 77,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 797,
+    "submissionId": 76,
+    "questionId": 5,
+    "text": "Niet helemaal, 20 - 40%"
+  },
+  {
+    "id": 798,
+    "submissionId": 76,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 799,
+    "submissionId": 75,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 800,
+    "submissionId": 75,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 801,
+    "submissionId": 74,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 802,
+    "submissionId": 74,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 803,
+    "submissionId": 73,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 804,
+    "submissionId": 73,
+    "questionId": 4,
+    "text": "Nee"
+  },
+  {
+    "id": 805,
+    "submissionId": 72,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 806,
+    "submissionId": 72,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 807,
+    "submissionId": 71,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 808,
+    "submissionId": 71,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 809,
+    "submissionId": 70,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 810,
+    "submissionId": 70,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 811,
+    "submissionId": 69,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 812,
+    "submissionId": 68,
+    "questionId": 4,
+    "text": "Groete afdeling ziet er over het algemeen erg rommelig uit, veel lege plekken in de schappen"
+  },
+  {
+    "id": 813,
+    "submissionId": 68,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 814,
+    "submissionId": 67,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 815,
+    "submissionId": 67,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 816,
+    "submissionId": 66,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 817,
+    "submissionId": 65,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 818,
+    "submissionId": 65,
+    "questionId": 4,
+    "text": "Dit was mijn eerste opdracht. Nu al enthousiast! "
+  },
+  {
+    "id": 819,
+    "submissionId": 64,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 820,
+    "submissionId": 63,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 821,
+    "submissionId": 62,
+    "questionId": 5,
+    "text": "Niet helemaal, 20 - 40%"
+  },
+  {
+    "id": 822,
+    "submissionId": 62,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 823,
+    "submissionId": 61,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 824,
+    "submissionId": 61,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 825,
+    "submissionId": 60,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 826,
+    "submissionId": 60,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 827,
+    "submissionId": 59,
+    "questionId": 5,
+    "text": "Nee, voor ongeveer 0 - 20%"
+  },
+  {
+    "id": 828,
+    "submissionId": 59,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 829,
+    "submissionId": 58,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 830,
+    "submissionId": 57,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 831,
+    "submissionId": 57,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 832,
+    "submissionId": 56,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 833,
+    "submissionId": 55,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 834,
+    "submissionId": 54,
+    "questionId": 5,
+    "text": "Nee, voor ongeveer 0 - 20%"
+  },
+  {
+    "id": 835,
+    "submissionId": 54,
+    "questionId": 4,
+    "text": "Nee"
+  },
+  {
+    "id": 836,
+    "submissionId": 53,
+    "questionId": 5,
+    "text": "Niet helemaal, 20 - 40%"
+  },
+  {
+    "id": 837,
+    "submissionId": 52,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 838,
+    "submissionId": 51,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 839,
+    "submissionId": 51,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 840,
+    "submissionId": 50,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 841,
+    "submissionId": 49,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 842,
+    "submissionId": 48,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 843,
+    "submissionId": 48,
+    "questionId": 4,
+    "text": "Er stonden wat kratten voor dus daarom kon ik geen betere foto van het schap maken. De bananen links onderin kon ik daarom niet op de foto krijgen"
+  },
+  {
+    "id": 844,
+    "submissionId": 47,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 845,
+    "submissionId": 47,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 846,
+    "submissionId": 46,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 847,
+    "submissionId": 46,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 848,
+    "submissionId": 45,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 849,
+    "submissionId": 45,
+    "questionId": 4,
+    "text": "Het(grotere) schap met bananen was eigenlijk leeg want het was een aanbieding. Dit was een klein bakje bananen wat nog over was. Het zou trouwens handig zijn als je 2-4 fotos kon uploaden om de volledige omgeving van het bananenschap goed weer te geven."
+  },
+  {
+    "id": 850,
+    "submissionId": 44,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 851,
+    "submissionId": 44,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 852,
+    "submissionId": 43,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 853,
+    "submissionId": 42,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 854,
+    "submissionId": 41,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 855,
+    "submissionId": 41,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 856,
+    "submissionId": 40,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 857,
+    "submissionId": 39,
+    "questionId": 4,
+    "text": "Dit is al de 3e keer dat ik het probeer :')"
+  },
+  {
+    "id": 858,
+    "submissionId": 39,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 859,
+    "submissionId": 38,
+    "questionId": 5,
+    "text": "Niet helemaal, 20 - 40%"
+  },
+  {
+    "id": 860,
+    "submissionId": 37,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 861,
+    "submissionId": 36,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 862,
+    "submissionId": 36,
+    "questionId": 4,
+    "text": "Leuke opdracht"
+  },
+  {
+    "id": 863,
+    "submissionId": 35,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 864,
+    "submissionId": 35,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 865,
+    "submissionId": 34,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 866,
+    "submissionId": 34,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 867,
+    "submissionId": 33,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 868,
+    "submissionId": 32,
+    "questionId": 5,
+    "text": "Nee, voor ongeveer 0 - 20%"
+  },
+  {
+    "id": 869,
+    "submissionId": 31,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 870,
+    "submissionId": 31,
+    "questionId": 4,
+    "text": "Nu bananen mee voor m'n dochtertje, ze vind ze heerlijk"
+  },
+  {
+    "id": 871,
+    "submissionId": 30,
+    "questionId": 5,
+    "text": "Niet helemaal, 20 - 40%"
+  },
+  {
+    "id": 872,
+    "submissionId": 29,
+    "questionId": 5,
+    "text": "Niet helemaal, 20 - 40%"
+  },
+  {
+    "id": 873,
+    "submissionId": 28,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 874,
+    "submissionId": 27,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 875,
+    "submissionId": 27,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 876,
+    "submissionId": 26,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 877,
+    "submissionId": 26,
+    "questionId": 4,
+    "text": "Goed te doen."
+  },
+  {
+    "id": 878,
+    "submissionId": 25,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 879,
+    "submissionId": 25,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 880,
+    "submissionId": 24,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 881,
+    "submissionId": 23,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 882,
+    "submissionId": 22,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 883,
+    "submissionId": 21,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 884,
+    "submissionId": 21,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 885,
+    "submissionId": 20,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 886,
+    "submissionId": 20,
+    "questionId": 4,
+    "text": "Leuke opdracht "
+  },
+  {
+    "id": 887,
+    "submissionId": 19,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 888,
+    "submissionId": 18,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 889,
+    "submissionId": 18,
+    "questionId": 4,
+    "text": "Nee bedankt"
+  },
+  {
+    "id": 890,
+    "submissionId": 17,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 891,
+    "submissionId": 17,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 892,
+    "submissionId": 16,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 893,
+    "submissionId": 15,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 894,
+    "submissionId": 14,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 895,
+    "submissionId": 14,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 896,
+    "submissionId": 13,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 897,
+    "submissionId": 12,
+    "questionId": 4,
+    "text": "Leuk, kan je meteen boodschappen doen!"
+  },
+  {
+    "id": 898,
+    "submissionId": 12,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 899,
+    "submissionId": 11,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 900,
+    "submissionId": 10,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 901,
+    "submissionId": 9,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 902,
+    "submissionId": 9,
+    "questionId": 4,
+    "text": "Lastig want was druk bij het fruit! "
+  },
+  {
+    "id": 903,
+    "submissionId": 8,
+    "questionId": 5,
+    "text": "Niet helemaal, 20 - 40%"
+  },
+  {
+    "id": 904,
+    "submissionId": 7,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 905,
+    "submissionId": 7,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 906,
+    "submissionId": 6,
+    "questionId": 4,
+    "text": "Ik snap niet dat de fair trade bananen in pladic verpakt zijn."
+  },
+  {
+    "id": 907,
+    "submissionId": 6,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 908,
+    "submissionId": 5,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 909,
+    "submissionId": 5,
+    "questionId": 4,
+    "text": ""
+  },
+  {
+    "id": 910,
+    "submissionId": 4,
+    "questionId": 5,
+    "text": "Redelijk, voor ongeveer  60 - 80%"
+  },
+  {
+    "id": 911,
+    "submissionId": 4,
+    "questionId": 4,
+    "text": "Plus"
+  },
+  {
+    "id": 912,
+    "submissionId": 3,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  },
+  {
+    "id": 913,
+    "submissionId": 2,
+    "questionId": 5,
+    "text": "Ja, voor ongeveer 80 - 100%"
+  },
+  {
+    "id": 914,
+    "submissionId": 1,
+    "questionId": 4,
+    "text": "Het gangpad was niet breed genoeg, vandaar de foto vanaf de zijkant."
+  },
+  {
+    "id": 915,
+    "submissionId": 1,
+    "questionId": 5,
+    "text": "Voor ongeveer de helft 40 - 60%"
+  }
+]
+}
