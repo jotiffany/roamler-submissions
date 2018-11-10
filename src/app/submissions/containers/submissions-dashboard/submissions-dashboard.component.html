@@ -1,0 +1,49 @@
+<div class="dashboard-row dashboard-header">
+  <h2 class="mat-h1 dashboard-header-title">Submissions</h2>
+  <div class="dashboard-header-filters">
+    <mat-form-field class="dashboard-header-filters-field">
+      <input
+        #dateFilter
+        matInput
+        [matDatepicker]="picker"
+        placeholder="Filter by date"
+        (dateChange)="handleDateChange($event)"
+      />
+      <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+      <mat-datepicker #picker></mat-datepicker>
+    </mat-form-field>
+
+    <mat-form-field class="dashboard-header-filters-field">
+      <input
+        #searchQuery
+        matInput
+        type="text"
+        placeholder="Search address"
+        (keyup)="handleSearch($event)"
+      />
+    </mat-form-field>
+  </div>
+</div>
+<div class="dashboard-row dashboard-table">
+  <ngx-datatable
+    class="material striped"
+    [rows]="submissions | async"
+    [columnMode]="'force'"
+    [headerHeight]="50"
+    [footerHeight]="50"
+    [rowHeight]="50"
+    [limit]="10"
+  >
+    <ngx-datatable-column name="Date">
+      <ng-template let-row="row" ngx-datatable-cell-template>
+        <a [routerLink]="[row.id]"> {{ row.date | date: 'longDate' }} </a>
+      </ng-template>
+    </ngx-datatable-column>
+    >
+    <ngx-datatable-column name="Address">
+      <ng-template let-row="row" ngx-datatable-cell-template>
+        {{ row.address }}
+      </ng-template>
+    </ngx-datatable-column>
+  </ngx-datatable>
+</div>

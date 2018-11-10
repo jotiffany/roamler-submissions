@@ -1,0 +1,10 @@
+.nav-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+  &-logo {
+    &-image {
+      width: 160px;
+    }
+  }
+}

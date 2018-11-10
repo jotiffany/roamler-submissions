@@ -1,0 +1,15 @@
+.submission-card {
+  padding: 30px;
+  &-content {
+    display: flex;
+    justify-content: stretch;
+
+    &-map {
+      &-box {
+        background: lightblue;
+        width: 600px;
+        height: 400px;
+      }
+    }
+  }
+}

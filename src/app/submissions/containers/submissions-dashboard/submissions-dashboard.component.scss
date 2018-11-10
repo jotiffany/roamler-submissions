@@ -1,0 +1,18 @@
+.dashboard {
+  &-row {
+    padding: 0 30px;
+  }
+
+  &-header {
+    display: flex;
+    justify-content: space-between;
+    &-title {
+      align-self: center;
+    }
+    &-filters {
+      &-field {
+        padding: 10px;
+      }
+    }
+  }
+}

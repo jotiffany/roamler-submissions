@@ -1,0 +1,31 @@
+<mat-card class="submission-card">
+  <mat-card-title>{{ submission?.address }}</mat-card-title>
+
+  <mat-card-content class="submission-card-content">
+    <div class="submission-card-content-qna">
+      <h2 class="mat-h2">Questions and Answers</h2>
+      <ul>
+        <li
+          *ngFor="let answer of answers; let index = index; trackBy: answer?.id"
+        >
+          <p class="submission-card-qna-question">
+            {{ answer.question?.text }}
+          </p>
+          <p class="submission-card-qna-answer">
+            <span *ngIf="answer.text">{{ answer.text }}</span>
+            <img *ngIf="!answer.text" src="assets/image_placeholder.jpeg" />
+          </p>
+        </li>
+      </ul>
+    </div>
+    <div class="submission-card-content-map">
+      <h2 class="mat-h2">Map</h2>
+      <div #gmap class="submission-card-content-map-box"></div>
+    </div>
+  </mat-card-content>
+  <mat-card-actions>
+    <button mat-button (click)="goBack()">
+      &lsaquo; BACK
+    </button></mat-card-actions
+  >
+</mat-card>
